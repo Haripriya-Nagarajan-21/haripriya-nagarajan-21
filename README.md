@@ -51,7 +51,7 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer, building modern web
 ## 🔗 Connect with Me
 
 - 📧 **Email**: haripriya0521@gmail.com  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/haripriya-nagarajan-21)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/haripriya-nagarajan-1b5403290/)
 
 ---
 
