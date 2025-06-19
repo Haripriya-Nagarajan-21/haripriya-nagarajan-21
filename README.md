@@ -1,7 +1,8 @@
-<!-- Typing Intro Banner -->
+<!-- Typing Intro Banner (Professional with College & Degree) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Haripriya+Nagarajan!;Full+Stack+Developer+%7C+Java+%7C+React+%7C+SpringBoot;C%2B%2B+%7C+SQL+%7C+Swagger+%7C+Tailwind+CSS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Hi+I'm+Haripriya+Nagarajan!;B.Tech+IT+Student+at+SKCT;Full+Stack+Developer+%7C+Java+%7C+SpringBoot+%7C+React;C%2B%2B+%7C+SQL+%7C+Swagger+%7C+Tailwind+CSS" alt="Typing SVG" />
 </p>
+
 ---
 
 ## 👩‍💻 About Me
