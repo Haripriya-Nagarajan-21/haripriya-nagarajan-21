@@ -1,8 +1,7 @@
 <!-- Typing Intro Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Haripriya+Nagarajan!;Full+Stack+Developer+%7C+Java+%7C+React+%7C+SpringBoot;C%2B%2B+%7C+SQL+%7C+Swagger+%7C+Tailwind+CSS&color=FFFFFF&background=00000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Haripriya+Nagarajan!;Full+Stack+Developer+%7C+Java+%7C+React+%7C+SpringBoot;C%2B%2B+%7C+SQL+%7C+Swagger+%7C+Tailwind+CSS" alt="Typing SVG" />
 </p>
-
 ---
 
 ## 👩‍💻 About Me
