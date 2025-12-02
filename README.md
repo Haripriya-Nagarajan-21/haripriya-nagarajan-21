@@ -60,8 +60,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://gh-stats.vercel.app/api?username=Haripriya-Nagarajan-21&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://gh-stats.vercel.app/api/top-langs/?username=Haripriya-Nagarajan-21&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-peguimasid.vercel.app/api?username=Haripriya-Nagarajan-21&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=Haripriya-Nagarajan-21&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
