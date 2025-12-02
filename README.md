@@ -59,10 +59,43 @@
 
 ## 📈 GitHub Stats
 
+<!-- Profile Details -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projects-5+-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haripriya-Nagarajan-21&theme=tokyonight" 
+    alt="GitHub Profile Details" 
+    width="90%"
+  />
+</p>
+
+<!-- Stats + Languages -->
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haripriya-Nagarajan-21&theme=tokyonight" 
+    alt="GitHub Stats"
+    width="45%"
+  />
+  
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haripriya-Nagarajan-21&theme=tokyonight" 
+    alt="Top Languages"
+    width="45%"
+  />
+</p>
+
+<!-- Commit Chart -->
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haripriya-Nagarajan-21&theme=tokyonight" 
+    alt="Most Commit Language"
+    width="45%"
+  />
+  
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Haripriya-Nagarajan-21&theme=tokyonight" 
+    alt="Commit Time"
+    width="45%"
+  />
 </p>
 
 
