@@ -60,9 +60,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-peguimasid.vercel.app/api?username=Haripriya-Nagarajan-21&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=Haripriya-Nagarajan-21&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-5+-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge" />
 </p>
+
 
 ---
 
