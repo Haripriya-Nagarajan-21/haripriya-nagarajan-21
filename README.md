@@ -58,46 +58,44 @@
 ---
 
 ## 📈 GitHub Stats
+## ⚡ My GitHub Stats
 
-<!-- Profile Details -->
+<!-- Profile Summary Card (full width, centered) -->
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haripriya-Nagarajan-21&theme=tokyonight" 
-    alt="GitHub Profile Details" 
+    alt="Profile Details"
     width="90%"
   />
 </p>
 
-<!-- Stats + Languages -->
+<!-- Stats + Top Languages (side by side) -->
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haripriya-Nagarajan-21&theme=tokyonight" 
-    alt="GitHub Stats"
+    alt="Stats"
     width="45%"
   />
-  
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haripriya-Nagarajan-21&theme=tokyonight" 
-    alt="Top Languages"
+    alt="Top Languages by Repo"
     width="45%"
   />
 </p>
 
-<!-- Commit Chart -->
+<!-- Languages by Commit + Extra Stats (side by side) -->
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haripriya-Nagarajan-21&theme=tokyonight" 
     alt="Most Commit Language"
     width="45%"
   />
-  
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Haripriya-Nagarajan-21&theme=tokyonight" 
     alt="Commit Time"
     width="45%"
   />
 </p>
-
 
 ---
 
