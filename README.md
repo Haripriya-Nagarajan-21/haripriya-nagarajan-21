@@ -60,8 +60,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haripriya-nagarajan-21&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haripriya-nagarajan-21&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Haripriya-Nagarajan-21&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haripriya-Nagarajan-21&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=86400" width="48%" />
 </p>
 
 ---
