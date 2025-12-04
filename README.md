@@ -58,30 +58,39 @@
 ---
 
 ## 📈 GitHub Stats
-## ⚡ My GitHub Stats
-
-<!-- Profile Summary Card (full width, centered) -->
+<!-- 🌟 PROFILE SUMMARY CARD (always latest) -->
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haripriya-Nagarajan-21&theme=tokyonight" 
-    alt="Profile Details"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haripriya-nagarajan-21&theme=tokyonight&cache_seconds=1"
     width="90%"
+    alt="Profile Summary"
   />
 </p>
 
-<!-- Stats + Top Languages (side by side) -->
+<!-- 🌟 STATS + PRODUCTIVE TIME (always latest) -->
+<p align="center">
+
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haripriya-nagarajan-21&show_icons=true&theme=tokyonight&cache_seconds=1"
+    width="45%"
+    alt="GitHub Stats"
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haripriya-nagarajan-21&theme=tokyonight&utcOffset=8&cache_seconds=1"
+    width="45%"
+    alt="Productive Time"
+  />
+
+</p>
+
+<!-- 🌟 TOP LANGUAGES (always latest) -->
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haripriya-Nagarajan-21&theme=tokyonight" 
-    alt="Stats"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=haripriya-nagarajan-21&layout=compact&theme=tokyonight&cache_seconds=1"
     width="45%"
+    alt="Top Languages"
   />
- <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Haripriya-Nagarajan-21&theme=tokyonight" 
-    alt="Commit Time"
-    width="45%"
-  />
-</p>
 </p>
 
 ---
