@@ -58,38 +58,24 @@
 ---
 
 ## 📈 GitHub Stats
-<!-- 🌟 PROFILE SUMMARY CARD (always latest) -->
+<!-- Profile Summary Card -->
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haripriya-nagarajan-21&theme=tokyonight&cache_seconds=1"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haripriya-nagarajan-21&theme=tokyonight"
     width="90%"
-    alt="Profile Summary"
   />
 </p>
 
-<!-- 🌟 STATS + PRODUCTIVE TIME (always latest) -->
+<!-- Stats + Productive Time -->
 <p align="center">
-
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haripriya-nagarajan-21&show_icons=true&theme=tokyonight&cache_seconds=1"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haripriya-nagarajan-21&theme=tokyonight"
     width="45%"
-    alt="GitHub Stats"
   />
 
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haripriya-nagarajan-21&theme=tokyonight&utcOffset=8&cache_seconds=1"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haripriya-nagarajan-21&theme=tokyonight"
     width="45%"
-    alt="Productive Time"
-  />
-
-</p>
-
-<!-- 🌟 TOP LANGUAGES (always latest) -->
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=haripriya-nagarajan-21&layout=compact&theme=tokyonight&cache_seconds=1"
-    width="45%"
-    alt="Top Languages"
   />
 </p>
 
