@@ -58,27 +58,29 @@
 ---
 
 ## 📈 GitHub Stats
-<!-- Profile Summary Card -->
+<!-- Profile Summary Card (full width, centered) -->
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haripriya-nagarajan-21&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haripriya-Nagarajan-21&theme=tokyonight" 
+    alt="Profile Details"
     width="90%"
   />
 </p>
 
-<!-- Stats + Productive Time -->
+<!-- Stats + Top Languages (side by side) -->
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haripriya-nagarajan-21&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haripriya-Nagarajan-21&theme=tokyonight" 
+    alt="Stats"
     width="45%"
   />
-
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haripriya-nagarajan-21&theme=tokyonight"
+ <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Haripriya-Nagarajan-21&theme=tokyonight" 
+    alt="Commit Time"
     width="45%"
   />
 </p>
-
+</p> 
 ---
 
 ## 📫 Let's Connect
