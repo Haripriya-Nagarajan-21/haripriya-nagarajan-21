@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 3rd Year Engineering Student  
+🎓 Final Year Engineering Student  
 💡 Passionate about Full Stack Web Development  
 🔨 Building Projects with Java, React, Spring Boot, MySQL  
 🎯 Aiming to become a Full Stack Developer & DevOps Engineer
